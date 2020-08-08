@@ -1,13 +1,15 @@
+
 body {
     font-family: 'nunito', sarif- sans;
     background: #eff1f7
 }
+
 .content {
 grid-area: content;
 }
 .sidebar {
 grid-area: navbar;
-background: linear-gradient;(to right,
+background: linear-gradient; (to right,
 }
 .footer {
 grid-area: footer;
@@ -25,6 +27,7 @@ grid-template-areas:  "navbar", "content","footer";
 .footer {
 padding: 1em
 }
+
 nav ul {
 margin: 0;
 padding: 0;
