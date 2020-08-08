@@ -7,4 +7,4 @@ Responsive web design (RWD) is an approach to web design that makes web pages re
 
 
 
-![20200806_182326](https://user-images.githubusercontent.com/65740871/89718416-81cb2380-d97b-11ea-9004-bdcd9a4be8fd.jpg)
+
